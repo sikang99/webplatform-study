@@ -4,6 +4,10 @@
 ### Articles
 
 
+### News Letters
+- [WebAssembly Weekly](https://wasmweekly.news/)
+- [WebAssembly Today](https://webassemblytoday.substack.com/)
+
 
 ### Information
 - [FFMPEG.WASM](https://ffmpegwasm.github.io/)
