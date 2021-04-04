@@ -2,6 +2,7 @@
 
 
 ### Articles
+- 2021/03/31 [Using Web Assembly Written in Rust on the Server-Side](https://thenewstack.io/using-web-assembly-written-in-rust-on-the-server-side/)
 - 2021/01/15 [Experience Web Assembly – WASM – WA](https://oliverx.link/2021/01/15/experience-web-assembly-wasm-wa/)
 - 2020/09/09 [How WebAssembly changes software distribution](https://desiatov.com/why-webassembly/)
 - 2018/04/01 [Loading WebAssembly modules efficiently](https://developers.google.com/web/updates/2018/04/loading-wasm)
