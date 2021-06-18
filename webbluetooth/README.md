@@ -6,7 +6,7 @@
 
 
 ### Articles
-
+- 2019/02/13 [An Introduction To WebBluetooth](https://www.smashingmagazine.com/2019/02/introduction-to-webbluetooth/)
 
 ### Information
 - [Web Bluetooth API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API)
