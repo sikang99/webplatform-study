@@ -6,6 +6,7 @@
 
 
 ### Articles
+- 2021/05/07 [Communicating with Bluetooth devices over JavaScript](https://web.dev/bluetooth/)
 - 2019/02/13 [An Introduction To WebBluetooth](https://www.smashingmagazine.com/2019/02/introduction-to-webbluetooth/)
 
 ### Information
