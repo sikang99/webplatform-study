@@ -9,6 +9,7 @@
 - 2021/05/07 [Communicating with Bluetooth devices over JavaScript](https://web.dev/bluetooth/)
 - 2020/11/06 [Web Bluetooth API “Hello world!”](http://www.nowhere.co.jp/blog/archives/20201106-070010.html)
 - 2020/05/05 [Bluetooth over the Web](https://medium.com/@drkaojha/bluetooth-over-the-web-e77dd91ddb90)
+- 2020/02/04 [DMM Logging with Web Bluetooth](https://www.element14.com/community/people/ralphjy/blog/2020/02/14/dmm-logging-with-web-bluetooth)
 - 2019/02/13 [An Introduction To WebBluetooth](https://www.smashingmagazine.com/2019/02/introduction-to-webbluetooth/)
 - 2018/12/01 [THETA V Bluetooth API Access Using Web Bluetooth API](https://community.theta360.guide/t/theta-v-bluetooth-api-access-using-web-bluetooth-api/3955)
 
