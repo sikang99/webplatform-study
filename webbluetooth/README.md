@@ -15,6 +15,7 @@
 
 ### Information
 - [Web Bluetooth API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API)
+- [Web Bluetooth Samples](https://googlechrome.github.io/samples/web-bluetooth/index.html)
 
 
 ### Open Source
