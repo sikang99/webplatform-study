@@ -9,6 +9,7 @@
 
 
 ### Arrticles
+- 2021/11/08 [W3C/SMPTE Joint Workshop on Professional Media Production on the Web](https://www.w3.org/2021/03/media-production-workshop/session-1.html)
 - 2021/04/19 [Lyra, Satin and the future of voice codecs in WebRTC](https://bloggeek.me/lyra-satin-webrtc-voice-codecs/)
 - 2021/02/25 [Lyra: A New Very Low-Bitrate Codec for Speech Compression](https://ai.googleblog.com/2021/02/lyra-new-very-low-bitrate-codec-for.html)
 
