@@ -8,7 +8,7 @@
     - WebTransports
 - WebAssembly
 - WebXR
-- WebCodecs
+- [WebCodecs](https://github.com/sikang99/webplatform-study/tree/main/webcodec)
 - [WebTransport](https://github.com/sikang99/webplatform-study/tree/main/webtransport)
 - WebGPU
 - WebNN
