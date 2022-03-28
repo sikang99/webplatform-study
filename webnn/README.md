@@ -12,7 +12,7 @@
 ### Information
 - [Web Neural Network API Examples](https://intel.github.io/webml-polyfill/examples/)
 - Chrome Platform Status: [Web Neural Network API (WebNN)](https://chromestatus.com/feature/5738583487938560)
-
+- 2021 GSoC [Accelerate OpenCV.js DNN via WebNN](https://summerofcode.withgoogle.com/archive/2021/projects/4779460481515520)
 
 
 ### Open Source
