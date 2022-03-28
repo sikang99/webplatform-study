@@ -21,3 +21,5 @@
 ### Open Source
 - [w3c/webcodecs](https://github.com/w3c/webcodecs) - WebCodecs is a flexible web API for encoding and decoding audio and video
 - [Tencent-RTC/webcodecs-play](https://github.com/Tencent-RTC/webcodecs-play) - play WebCodecs
+- [google/lyra](https://github.com/google/lyra) - A Very Low-Bitrate Codec for Speech Compression
+
