@@ -8,6 +8,9 @@
     - WebTrasnports
 - WebAssembly
 - WebXR
+- WebCodecs
+- WebTrasnports
+- WebGPU
 
 
 ### Articles

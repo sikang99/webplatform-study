@@ -7,6 +7,7 @@
 
 ### Articles
 - 2021/05/07 [Communicating with Bluetooth devices over JavaScript](https://web.dev/bluetooth/)
+- 2021/05/05 [ Web Bluetooth manufacturer data filter](https://www.chromestatus.com/feature/5684530360877056)
 - 2020/11/06 [Web Bluetooth API “Hello world!”](http://www.nowhere.co.jp/blog/archives/20201106-070010.html)
 - 2020/05/05 [Bluetooth over the Web](https://medium.com/@drkaojha/bluetooth-over-the-web-e77dd91ddb90)
 - 2020/02/04 [DMM Logging with Web Bluetooth](https://www.element14.com/community/people/ralphjy/blog/2020/02/14/dmm-logging-with-web-bluetooth)
