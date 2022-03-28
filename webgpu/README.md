@@ -30,3 +30,9 @@
 ### Open Source
 - [gpuweb/gpuweb](https://github.com/gpuweb/gpuweb) - Where the GPU for the Web work happens!
 
+
+
+### Books
+- 2021 [Practical WebGPU Graphics](https://books.google.co.kr/books?id=tPQyEAAAQBAJ&printsec=frontcover&redir_esc=y)
+
+
