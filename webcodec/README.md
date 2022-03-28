@@ -19,8 +19,9 @@
 - Blink: [Internals>Media>Codecs](https://bugs.chromium.org/p/chromium/issues/list?q=component:Internals%3EMedia%3ECodecs)
 
 
+
 ### Open Source
 - [w3c/webcodecs](https://github.com/w3c/webcodecs) - WebCodecs is a flexible web API for encoding and decoding audio and video
 - [Tencent-RTC/webcodecs-play](https://github.com/Tencent-RTC/webcodecs-play) - play WebCodecs
 - [google/lyra](https://github.com/google/lyra) - A Very Low-Bitrate Codec for Speech Compression
-
+- [eshaz/wasm-audio-decoders](https://github.com/eshaz/wasm-audio-decoders) - Browser and NodeJS Web Assembly audio decoder libraries that are highly optimized for size and performance
