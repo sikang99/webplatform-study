@@ -20,6 +20,7 @@
 
 ### Information
 - [web.dev](https://web.dev/) - Let's build the future of the web, togethe
+- [WebPlatform.org](https://webplatform.github.io/) - Your Web, Documented
 
 
 ### Open Source
