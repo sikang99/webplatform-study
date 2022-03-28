@@ -10,6 +10,7 @@
 
 ### Information
 - [Immersive Web Weekly](https://immersivewebweekly.com/)
+- [Wild Capture](https://www.wildcapture.io/) - A Technology Studio for Digital Humans
 
 
 ### Open Source
