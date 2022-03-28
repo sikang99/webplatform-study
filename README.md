@@ -5,11 +5,11 @@
 - WebAudio
 - WebRTC
     - WebCodecs
-    - WebTrasnports
+    - WebTransports
 - WebAssembly
 - WebXR
 - WebCodecs
-- [WebTrasnport](https://github.com/sikang99/webplatform-study/tree/main/webtransport)
+- [WebTransport](https://github.com/sikang99/webplatform-study/tree/main/webtransport)
 - WebGPU
 - WebNN
 
