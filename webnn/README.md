@@ -1,4 +1,8 @@
-## Web AI
+## WebNN, AI
+
+
+### Standards
+- [Web Neural Network API](https://www.w3.org/TR/webnn/), W3C Working Draft, 24 March 2022
 
 
 ### Articles
