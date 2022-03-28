@@ -15,6 +15,7 @@
 
 ### Information
 - [WebGPU — All of the cores, none of the canvas](https://surma.dev/things/webgpu/)
+- [WebGPU Examples](https://kitware.github.io/vtk-js/docs/develop_webgpu.html)
 
 
 ### Slides
