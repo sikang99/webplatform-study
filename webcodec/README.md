@@ -1,7 +1,8 @@
 ### WebCodec
 
 
-
+## Standards
+- [WebCodecs](https://w3c.github.io/webcodecs/), Editor’s Draft, 16 February 2022
 
 
 ### Open Source
