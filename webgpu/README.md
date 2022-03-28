@@ -7,6 +7,8 @@
 
 
 ### Articles
+- 2021/08/26 [Access modern GPU features with WebGPU](https://web.dev/gpu/)
+
 
 
 ### Information
