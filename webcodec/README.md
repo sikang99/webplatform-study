@@ -1,8 +1,13 @@
 ### WebCodec
 > M94
 
-## Standards
+### Standards
 - [WebCodecs](https://w3c.github.io/webcodecs/), Editor’s Draft, 16 February 2022
+
+
+### Information
+- Chrome Platform Status: [Feature: AV1 Encoder](https://chromestatus.com/feature/6206321818861568)
+- Blink: [Internals>Media>Codecs](https://bugs.chromium.org/p/chromium/issues/list?q=component:Internals%3EMedia%3ECodecs)
 
 
 ### Open Source
