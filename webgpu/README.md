@@ -10,7 +10,7 @@
 - 2022/03/17 [Learn WebGPU – A next-generation graphics API for the web](https://www.freecodecamp.org/news/learn-webgpu-a-next-generation-graphics-api-for-the-web/)
 - 2022/03/09 [WebGPU... Better than WebGL?](https://hackaday.com/2022/03/09/webgpu-better-than-webgl/)
 - 2021/08/26 [Access modern GPU features with WebGPU](https://web.dev/gpu/)
-
+- 2021/04/01 [The story of WebGPU — The successor to WebGL](https://eytanmanor.medium.com/the-story-of-webgpu-the-successor-to-webgl-bf5f74bc036a)
 
 
 ### Information
