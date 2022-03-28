@@ -19,6 +19,7 @@
 - [WebGPU Examples](https://kitware.github.io/vtk-js/docs/develop_webgpu.html)
 - [Bybylon.js](https://www.babylonjs.com/)
 - [WebGPU from WebGL](https://webgpufundamentals.org/webgpu/lessons/webgpu-from-webgl.html)
+- [WebGPU Samples](https://austin-eng.com/webgpu-samples)
 
 
 ### Slides
