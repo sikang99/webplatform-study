@@ -17,6 +17,10 @@
 - [WebGPU — All of the cores, none of the canvas](https://surma.dev/things/webgpu/)
 
 
+### Slides
+- 2022 [WebGL and WebGPU Updates](https://www.khronos.org/assets/uploads/developers/presentations/WebGL_%2B_WebGPU_Updates_Jan_22.pdf)
+
+
 
 ### Open Source
 
