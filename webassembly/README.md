@@ -22,3 +22,5 @@
 - [huweijian5/wasm-video-player](https://github.com/huweijian5/wasm-video-player) 
 - [sonysuqin/WasmVideoPlayer](https://github.com/sonysuqin/WasmVideoPlayer) - Play file/stream with wasm & webgl & web audio api, using ffmpeg for multi codec support, especially for h265，support http, websocket, http-flv stream.
 - [fengb/wazm](https://github.com/fengb/wazm) - Web Assembly Zig Machine
+- [echamudi/opencv-wasm](https://github.com/echamudi/opencv-wasm) - Precompiled OpenCV 4.3.0 to JavaScript + WebAssembly for node and deno
+
