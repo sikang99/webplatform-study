@@ -6,6 +6,7 @@
 
 
 ### Articles
+- 2021/11/03 [Run TFLITE models on the web](https://gilberttanner.com/blog/run-tflite-models-on-the-web)
 - 2020/05/14 [The Best AI & Machine Learning Frameworks to Learn for Web Development](https://www.freecodecamp.org/news/best-ai-machine-learning-frameworks-for-web-development/)
 
 
