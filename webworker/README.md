@@ -8,5 +8,7 @@
 
 
 ### Open Source
-- [https://github.com/w3c/ServiceWorker](https://github.com/w3c/ServiceWorker) - Service Workers
+- [w3c/ServiceWorker](https://github.com/w3c/ServiceWorker) - Service Workers
+- [vinissimus/opencv-js-webworker](https://github.com/vinissimus/opencv-js-webworker) - Getting started with OpenCV compiled to Webassembly and loaded in a worker
+
 
