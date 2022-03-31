@@ -18,7 +18,7 @@
 
 ### Open Source
 - [webmachinelearning/webnn](https://github.com/webmachinelearning/webnn) - 🧠 Web Neural Network API
-
+- [webmachinelearning/webnn-native](https://github.com/webmachinelearning/webnn-native) - 🧠⚙️ Standalone native implementation of the Web Neural Network API
 
 
 
