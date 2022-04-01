@@ -8,7 +8,7 @@
 
 ### Information
 - MDN: [WebHID API](https://developer.mozilla.org/en-US/docs/Web/API/WebHID_API)
-
+- [Connect HID Device](https://web.dev/hid/)
 
 
 ### Open Source
