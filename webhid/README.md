@@ -16,6 +16,7 @@
 - Can I use: [WebHID API](https://caniuse.com/webhid)
 - [WebHID Demo - Keyboard Backlight](https://codesandbox.io/s/qlq95)
 - W3cubedocs/Web APIs/[WebHID API](https://docs.w3cub.com/dom/webhid_api)
+- Dart: [webhid library](https://pub.dev/documentation/js_bindings/latest/webhid/webhid-library.html)
 
 
 ### Open Source
