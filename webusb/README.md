@@ -9,6 +9,7 @@
 
 
 ### Information
+- Chrome Platform Status: [Feature: WebUSB API](https://chromestatus.com/feature/5651917954875392)
 
 
 ### Open Source
