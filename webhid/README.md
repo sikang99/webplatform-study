@@ -14,6 +14,6 @@
 
 ### Open Source
 - [WICG/webhid](https://github.com/WICG/webhid)
-
+- [robatwilliams/awesome-webhid](https://github.com/robatwilliams/awesome-webhid) - Curated list of resources relating to the WebHID (Human Interface Device) API
 
 
