@@ -3,6 +3,7 @@
 
 ### Articles
 - 2022/01/27 [WebAssembly feature detection](https://web.dev/webassembly-feature-detection/)
+- 2021/09/17 [Extend Backend Application With WebAssembly](https://medium.com/codex/extend-backend-application-with-webassembly-ba19c17016d3)
 - 2021/07/14 [Bring your C++ Application to the Web with Web Assembly](https://tpiros.dev/blog/bring-your-cplusplus-application-to-the-web-with-web-assembly/)
 - 2021/03/31 [Using Web Assembly Written in Rust on the Server-Side](https://thenewstack.io/using-web-assembly-written-in-rust-on-the-server-side/)
 - 2021/01/15 [Experience Web Assembly – WASM – WA](https://oliverx.link/2021/01/15/experience-web-assembly-wasm-wa/)
