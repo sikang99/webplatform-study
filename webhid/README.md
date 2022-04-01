@@ -15,6 +15,7 @@
 - [Connect HID Device](https://web.dev/hid/)
 - Can I use: [WebHID API](https://caniuse.com/webhid)
 - [WebHID Demo - Keyboard Backlight](https://codesandbox.io/s/qlq95)
+- W3cubedocs/Web APIs/[WebHID API](https://docs.w3cub.com/dom/webhid_api)
 
 
 ### Open Source
