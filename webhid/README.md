@@ -18,6 +18,7 @@
 - W3cubedocs/Web APIs/[WebHID API](https://docs.w3cub.com/dom/webhid_api)
 - Dart: [webhid library](https://pub.dev/documentation/js_bindings/latest/webhid/webhid-library.html)
 - Electron: [Device Access](https://www.electronjs.org/docs/latest/tutorial/devices)
+- [StreamDeck Demo](https://vdo.ninja/webhid)
 
 
 ### Open Source
