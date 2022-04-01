@@ -16,6 +16,7 @@
 
 
 ### Information
+- WebAssembly: [Roadmap](https://webassembly.org/roadmap/)
 - [FFMPEG.WASM](https://ffmpegwasm.github.io/)
 
 
