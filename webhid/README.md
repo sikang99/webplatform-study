@@ -14,6 +14,7 @@
 - Chrome Platform Status: [Feature: WebHID (Human Interface Device)](https://chromestatus.com/feature/5172464636133376)
 - [Connect HID Device](https://web.dev/hid/)
 - Can I use: [WebHID API](https://caniuse.com/webhid)
+- [WebHID Demo - Keyboard Backlight](https://codesandbox.io/s/qlq95)
 
 
 ### Open Source
