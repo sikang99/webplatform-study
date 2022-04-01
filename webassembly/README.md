@@ -21,6 +21,7 @@
 
 
 ### Open Source
+- [GoogleChromeLabs/wasm-feature-detect](https://github.com/GoogleChromeLabs/wasm-feature-detect) - A small library to detect which features of WebAssembly are supported.
 - [huweijian5/wasm-video-player](https://github.com/huweijian5/wasm-video-player) 
 - [sonysuqin/WasmVideoPlayer](https://github.com/sonysuqin/WasmVideoPlayer) - Play file/stream with wasm & webgl & web audio api, using ffmpeg for multi codec support, especially for h265，support http, websocket, http-flv stream.
 - [fengb/wazm](https://github.com/fengb/wazm) - Web Assembly Zig Machine
