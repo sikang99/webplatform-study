@@ -10,7 +10,7 @@
 
 
 ### Information
-
+- [WebRTC Weekly](https://webrtcweekly.com/)
 
 
 ### Open Source
