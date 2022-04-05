@@ -25,7 +25,11 @@
 - [webmachinelearning/webnn-samples](https://github.com/webmachinelearning/webnn-samples) - 🧠✨ Web Neural Network API samples
 - [webmachinelearning/webnn-polyfill](https://github.com/webmachinelearning/webnn-polyfill) - 🧠⚙️ Web Neural Network API polyfill based on TensorFlow.js
 - [intel/webml-polyfill](https://github.com/intel/webml-polyfill) - Deprecated, the Web Neural Network Polyfill project has been moved to https://github.com/webmachinelearning/webnn-polyfill
+
+
+### Open Source (Golang)
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software
+- [owulveryck/onnx-go](https://github.com/owulveryck/onnx-go) - onnx-go gives the ability to import a pre-trained neural network within Go without being linked to a framework or library.
 
 
 
