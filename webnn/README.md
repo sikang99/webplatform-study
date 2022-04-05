@@ -31,6 +31,7 @@
 ### Open Source (Golang)
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software
 - [owulveryck/onnx-go](https://github.com/owulveryck/onnx-go) - onnx-go gives the ability to import a pre-trained neural network within Go without being linked to a framework or library.
+- [c3sr/go-onnxruntime](https://github.com/c3sr/go-onnxruntime)
 
 
 ### Slides
