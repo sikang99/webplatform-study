@@ -30,6 +30,7 @@
 
 
 ### Open Source
+- [mikbry/awesome-webgpu](https://github.com/mikbry/awesome-webgpu) - 😎 Curated list of awesome things around WebGPU ecosystem
 - [gpuweb/gpuweb](https://github.com/gpuweb/gpuweb) - Where the GPU for the Web work happens!
 - [milhidaka/webgpu-example](https://github.com/milhidaka/webgpu-example) - Example of WebGPU
 - [austinEng/webgpu-samples](https://github.com/austinEng/webgpu-samples) - WebGPU Samples
