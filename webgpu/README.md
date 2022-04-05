@@ -30,6 +30,7 @@
 
 ### Open Source
 - [gpuweb/gpuweb](https://github.com/gpuweb/gpuweb) - Where the GPU for the Web work happens!
+- [milhidaka/webgpu-example](https://github.com/milhidaka/webgpu-example) - Example of WebGPU
 
 
 
