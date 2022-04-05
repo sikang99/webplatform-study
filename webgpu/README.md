@@ -24,6 +24,8 @@
 - [WebGPU from WebGL](https://webgpufundamentals.org/webgpu/lessons/webgpu-from-webgl.html)
 - [WebGPU Samples](https://austin-eng.com/webgpu-samples)
 - Chrome Platform Status: [Feature: WebGPU](https://chromestatus.com/feature/6213121689518080)
+- [Raw WebGPU](https://alain.xyz/blog/raw-webgpu)
+
 
 ### Slides
 - 2022 [WebGL and WebGPU Updates](https://www.khronos.org/assets/uploads/developers/presentations/WebGL_%2B_WebGPU_Updates_Jan_22.pdf)
