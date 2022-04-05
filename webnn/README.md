@@ -6,6 +6,7 @@
 
 
 ### Articles
+- 2022/02/10 [Top 5 Object Tracking Methods in 2022](https://www.linkedin.com/pulse/top-5-object-tracking-methods-2022-ritesh-kanjee)
 - 2021/11/03 [Run TFLITE models on the web](https://gilberttanner.com/blog/run-tflite-models-on-the-web)
 - 2021/09/06 [Export and run models with ONNX](https://dev.to/neuml/export-and-run-models-with-onnx-fof)
 - 2021/08/03 [Use Pose detection of TensorFlow with Next.js and TypeScript: Let's become pictograms with Pose detection](https://dev.to/yuikoito/tensorflow-next-js-typescript-let-s-become-pictograms-with-pose-detection-tokyo2020-17ia)
