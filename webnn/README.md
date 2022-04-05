@@ -31,6 +31,7 @@
 
 ### Open Source (Golang)
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software
+- [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
 - [owulveryck/onnx-go](https://github.com/owulveryck/onnx-go) - onnx-go gives the ability to import a pre-trained neural network within Go without being linked to a framework or library.
 - [c3sr/go-onnxruntime](https://github.com/c3sr/go-onnxruntime)
 - [Xamber/Varis](https://github.com/Xamber/Varis) - Golang Neural Network
