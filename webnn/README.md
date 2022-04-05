@@ -32,6 +32,8 @@
 - [owulveryck/onnx-go](https://github.com/owulveryck/onnx-go) - onnx-go gives the ability to import a pre-trained neural network within Go without being linked to a framework or library.
 
 
+### Slides
+- 2019 [ONNX-Go: neural networks made easy](https://speakerdeck.com/owulveryck/onnx-go-neural-networks-made-easy)
 
 
 
