@@ -48,6 +48,8 @@
 - [gpuweb/gpuweb](https://github.com/gpuweb/gpuweb) - Where the GPU for the Web work happens!
 - [milhidaka/webgpu-example](https://github.com/milhidaka/webgpu-example) - Example of WebGPU
 - [austinEng/webgpu-samples](https://github.com/austinEng/webgpu-samples) - WebGPU Samples
+- [https://github.com/szatkus/kagepu](https://github.com/szatkus/kagepu) - Implementation of WebGPU in TypeScript
+
 
 
 ### Books
