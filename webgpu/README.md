@@ -6,6 +6,8 @@
 - [WebGPU](https://www.w3.org/TR/webgpu/), W3C Working Draft, 26 March 2022
 - [WebGPU Shading Language](https://gpuweb.github.io/gpuweb/wgsl/), Editor’s Draft, 6 April 2022
 - W3C: [GPU](https://www.w3.org/2020/gpu/)
+- [High Dynamic Range and Wide Gamut Color on the Web](https://w3c.github.io/ColorWeb-CG/), 28 March 2022
+
 
 
 ### Articles
