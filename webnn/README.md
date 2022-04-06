@@ -28,6 +28,8 @@
 - [webmachinelearning/webnn-samples](https://github.com/webmachinelearning/webnn-samples) - 🧠✨ Web Neural Network API samples
 - [webmachinelearning/webnn-polyfill](https://github.com/webmachinelearning/webnn-polyfill) - 🧠⚙️ Web Neural Network API polyfill based on TensorFlow.js
 - [intel/webml-polyfill](https://github.com/intel/webml-polyfill) - Deprecated, the Web Neural Network Polyfill project has been moved to https://github.com/webmachinelearning/webnn-polyfill
+- [webonnx/wonnx](https://github.com/webonnx/wonnx) - A GPU-accelerated ONNX inference run-time written 100% in Rust, ready for the web
+
 
 
 ### Open Source (Golang)
