@@ -21,6 +21,7 @@
 
 ### Information
 - Wiki: [WebGPU](https://en.wikipedia.org/wiki/WebGPU)
+- Gitter: [gfx-rs/webgpu](https://gitter.im/gfx-rs/webgpu)
 - [WebGPU — All of the cores, none of the canvas](https://surma.dev/things/webgpu/)
 - [WebGPU Examples](https://kitware.github.io/vtk-js/docs/develop_webgpu.html)
 - [Bybylon.js](https://www.babylonjs.com/)
