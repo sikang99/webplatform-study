@@ -34,7 +34,7 @@
 - [Raw WebGPU](https://alain.xyz/blog/raw-webgpu)
 - [Next generation 3D graphics on the web side](https://www.programmersought.com/article/12931433037/)
 - [WebGPU – All of the cores, none of the canvas – surma.dev](https://www.libhunt.com/posts/638364-webgpu-all-of-the-cores-none-of-the-canvas-surma-dev)
-
+- [Graphics Programming weekly](https://www.jendrikillner.com/post/graphics-programming-weekly-issue-226/)
 
 
 ### Slides
