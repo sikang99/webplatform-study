@@ -29,3 +29,7 @@
 - [fengb/wazm](https://github.com/fengb/wazm) - Web Assembly Zig Machine
 - [echamudi/opencv-wasm](https://github.com/echamudi/opencv-wasm) - Precompiled OpenCV 4.3.0 to JavaScript + WebAssembly for node and deno
 
+
+### Books
+- 2022[Game Development with Rust and WebAssembly](https://books.google.co.kr/books?id=wKRnEAAAQBAJ)
+
