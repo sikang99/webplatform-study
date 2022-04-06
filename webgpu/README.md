@@ -1,4 +1,5 @@
 ## WebGPU
+> chrome://flags/#enable-unsafe-webgpu
 
 
 ### Standards
@@ -8,6 +9,7 @@
 
 
 ### Articles
+- 2022/03/29 [Get started with GPU Compute on the web](https://web.dev/gpu-compute/)
 - 2022/03/17 [Learn WebGPU – A next-generation graphics API for the web](https://www.freecodecamp.org/news/learn-webgpu-a-next-generation-graphics-api-for-the-web/)
 - 2022/03/14 [Comparison between webgl and webgpu [7] - destination of rendering](https://chowdera.com/2022/03/202203140910112162.html)
 - 2022/03/09 [WebGPU... Better than WebGL?](https://hackaday.com/2022/03/09/webgpu-better-than-webgl/)
