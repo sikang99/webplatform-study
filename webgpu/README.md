@@ -3,7 +3,7 @@
 
 ### Standards
 - [WebGPU](https://www.w3.org/TR/webgpu/), W3C Working Draft, 26 March 2022
-
+- W3C: [GPU](https://www.w3.org/2020/gpu/)
 
 
 ### Articles
