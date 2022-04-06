@@ -17,6 +17,7 @@
 - 2021/04/01 [The story of WebGPU — The successor to WebGL](https://eytanmanor.medium.com/the-story-of-webgpu-the-successor-to-webgl-bf5f74bc036a)
 
 
+
 ### Information
 - Wiki: [WebGPU](https://en.wikipedia.org/wiki/WebGPU)
 - [WebGPU — All of the cores, none of the canvas](https://surma.dev/things/webgpu/)
@@ -26,6 +27,9 @@
 - [WebGPU Samples](https://austin-eng.com/webgpu-samples)
 - Chrome Platform Status: [Feature: WebGPU](https://chromestatus.com/feature/6213121689518080)
 - [Raw WebGPU](https://alain.xyz/blog/raw-webgpu)
+- [Next generation 3D graphics on the web side](https://www.programmersought.com/article/12931433037/)
+- [WebGPU – All of the cores, none of the canvas – surma.dev](https://www.libhunt.com/posts/638364-webgpu-all-of-the-cores-none-of-the-canvas-surma-dev)
+
 
 
 ### Slides
