@@ -13,6 +13,7 @@
 - 2021/10/18 [Get started with GPU Compute on the web](https://web.dev/gpu-compute/)
 - 2021/09/21 [Chrome 94 Released With WebGPU For Testing, WebCodecs API Now Official](https://www.phoronix.com/scan.php?page=news_item&px=Chrome-94-Released)
 - 2021/08/26 [Access modern GPU features with WebGPU](https://web.dev/gpu/)
+- 2021/08/26 [**Chrome 94 Beta: WebCodecs, WebGPU, Scheduling, and More**](https://blog.chromium.org/2021/08/chrome-94-beta-webcodecs-webgpu.html)
 - 2021/08/17 [Basic WebGPU Rendering](https://dev.to/ndesmic/basic-webgpu-rendering-2kob)
 - 2021/04/01 [The story of WebGPU — The successor to WebGL](https://eytanmanor.medium.com/the-story-of-webgpu-the-successor-to-webgl-bf5f74bc036a)
 
