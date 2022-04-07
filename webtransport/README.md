@@ -21,6 +21,7 @@
 - 2022/02/28 [What is WebTransport and can it replace WebSockets?](https://ably.com/blog/can-webtransport-replace-websockets)
 - 2022/01/04 [New in Chrome 97](https://developer.chrome.com/blog/new-in-chrome-97/) - WebTransport
 - 2021/07/06 [Why you should prefer UDP over TCP for your WebRTC sessions](https://bloggeek.me/why-you-should-prefer-udp-over-tcp-for-your-webrtc-sessions/)
+- 2021/02/23 [WebSocketStream: integrating streams with the WebSocket API](https://web.dev/i18n/en/websocketstream/)
 
 
 ### Information
@@ -56,5 +57,7 @@
 - [alivelime/sample_webtransport](https://github.com/alivelime/sample_webtransport) - Example WebTransport Chrome M97
 - [juj/last_frontier](https://github.com/juj/last_frontier) - Tech demo about using WebTransport datagrams to implement a low latency action game in a web browser
 - [leader22/webtransport-rfcs](https://github.com/leader22/webtransport-rfcs) - 
+- [omnistreams/omnistreams-spec](https://github.com/omnistreams/omnistreams-spec)
+
 
 
