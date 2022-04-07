@@ -1,0 +1,41 @@
+
+Chrome M100 WebCodecs
+
+RTCRtpSender.getCapabilities("video").codecs;
+(14) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}]
+0: {clockRate: 90000, mimeType: 'video/VP8'}
+1: {clockRate: 90000, mimeType: 'video/rtx'}
+2: {clockRate: 90000, mimeType: 'video/VP9', sdpFmtpLine: 'profile-id=0'}
+3: {clockRate: 90000, mimeType: 'video/VP9', sdpFmtpLine: 'profile-id=2'}
+4: {clockRate: 90000, mimeType: 'video/H264', sdpFmtpLine: 'level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f'}
+5: {clockRate: 90000, mimeType: 'video/H264', sdpFmtpLine: 'level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f'}
+6: {clockRate: 90000, mimeType: 'video/H264', sdpFmtpLine: 'level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f'}
+7: {clockRate: 90000, mimeType: 'video/H264', sdpFmtpLine: 'level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f'}
+8: {clockRate: 90000, mimeType: 'video/H264', sdpFmtpLine: 'level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=4d001f'}
+9: {clockRate: 90000, mimeType: 'video/H264', sdpFmtpLine: 'level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=4d001f'}
+10: {clockRate: 90000, mimeType: 'video/AV1'}
+11: {clockRate: 90000, mimeType: 'video/H264', sdpFmtpLine: 'level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=640032'}
+12: {clockRate: 90000, mimeType: 'video/red'}
+13: {clockRate: 90000, mimeType: 'video/ulpfec'}
+length: 14
+
+
+RTCRtpSender.getCapabilities("audio").codecs;
+(14) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}]
+0: {channels: 2, clockRate: 48000, mimeType: 'audio/opus', sdpFmtpLine: 'minptime=10;useinbandfec=1'}
+1: {channels: 2, clockRate: 48000, mimeType: 'audio/red', sdpFmtpLine: '111/111'}
+2: {channels: 1, clockRate: 16000, mimeType: 'audio/ISAC'}
+3: {channels: 1, clockRate: 32000, mimeType: 'audio/ISAC'}
+4: {channels: 1, clockRate: 8000, mimeType: 'audio/G722'}
+5: {channels: 1, clockRate: 8000, mimeType: 'audio/PCMU'}
+6: {channels: 1, clockRate: 8000, mimeType: 'audio/PCMA'}
+7: {channels: 1, clockRate: 32000, mimeType: 'audio/CN'}
+8: {channels: 1, clockRate: 16000, mimeType: 'audio/CN'}
+9: {channels: 1, clockRate: 8000, mimeType: 'audio/CN'}
+10: {channels: 1, clockRate: 48000, mimeType: 'audio/telephone-event'}
+11: {channels: 1, clockRate: 32000, mimeType: 'audio/telephone-event'}
+12: {channels: 1, clockRate: 16000, mimeType: 'audio/telephone-event'}
+13: {channels: 1, clockRate: 8000, mimeType: 'audio/telephone-event'}
+length: 14
+
+
