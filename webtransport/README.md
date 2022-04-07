@@ -44,20 +44,22 @@
 - [langhuihui/WebTransport-Go](https://github.com/langhuihui/WebTransport-Go) - WebTransport Server based on quic-go
 - [kiosk404/webtransport](https://github.com/kiosk404/webtransport) - webtransport demo for go, based on quic-go
 - [Abousidikou/Go-WebTransport](https://github.com/Abousidikou/Go-WebTransport) - 
-
+- [omnistreams/omnistreams-go](https://github.com/omnistreams/omnistreams-go)
+    - [omnistreams/omnistreams-core-go](https://github.com/omnistreams/omnistreams-core-go)
+    - [omnistreams/omnistreams-concurrent-go](https://github.com/omnistreams/omnistreams-concurrent-go)
 
 
 ### Open Source
 - [w3c/webtransport](https://github.com/w3c/webtransport) - 
 - [guest271314/webtransport](https://github.com/guest271314/webtransport) - WebTransport
-- [GoogleChrome/samples/gh-pages/webtransport](https://github.com/GoogleChrome/samples/tree/gh-pages/webtransport)
+- [**GoogleChrome/samples/gh-pages/webtransport**](https://github.com/GoogleChrome/samples/tree/gh-pages/webtransport)
 - [alivelime/sample_webtransport](https://github.com/alivelime/sample_webtransport) - Example WebTransport Chrome M97
 - [w3c/p2p-webtransport](https://github.com/w3c/p2p-webtransport) - Interface to create and manage QUIC streams
 - [yuki-uchida/webcodecs_webtransport](https://github.com/yuki-uchida/webcodecs_webtransport) - 
 - [alivelime/sample_webtransport](https://github.com/alivelime/sample_webtransport) - Example WebTransport Chrome M97
 - [juj/last_frontier](https://github.com/juj/last_frontier) - Tech demo about using WebTransport datagrams to implement a low latency action game in a web browser
 - [leader22/webtransport-rfcs](https://github.com/leader22/webtransport-rfcs) - 
-- [omnistreams/omnistreams-spec](https://github.com/omnistreams/omnistreams-spec)
+- [omnistreams/omnistreams-spec](https://github.com/omnistreams/omnistreams-spec) - WIP Specification for "universal" (language- and transport-agnostic) data streams
 
 
 
