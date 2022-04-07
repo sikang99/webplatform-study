@@ -50,5 +50,7 @@
 - [w3c/p2p-webtransport](https://github.com/w3c/p2p-webtransport) - Interface to create and manage QUIC streams
 - [yuki-uchida/webcodecs_webtransport](https://github.com/yuki-uchida/webcodecs_webtransport) - 
 - [alivelime/sample_webtransport](https://github.com/alivelime/sample_webtransport) - Example WebTransport Chrome M97
+- [juj/last_frontier](https://github.com/juj/last_frontier) - Tech demo about using WebTransport datagrams to implement a low latency action game in a web browser
+
 
 
