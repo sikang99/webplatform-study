@@ -35,6 +35,7 @@
 ### Open Source (golang)
 - [adriancable/webtransport-go](https://github.com/adriancable/webtransport-go) - Lightweight but fully-capable WebTransport server for Go
 - [adriancable/webtransport-go-example](https://github.com/adriancable/webtransport-go-example) - Example WebTransport server in Go using the webtransport-go package
+- [marten-seemann/webtransport-go](https://github.com/marten-seemann/webtransport-go) - 
 - [marten-seemann/chrome-quic-interop-runner](https://github.com/marten-seemann/chrome-quic-interop-runner)
 - [hugoArregui/webtransport](https://github.com/hugoArregui/webtransport)
 
@@ -44,4 +45,8 @@
 - [guest271314/webtransport](https://github.com/guest271314/webtransport) - WebTransport
 - [GoogleChrome/samples/gh-pages/webtransport](https://github.com/GoogleChrome/samples/tree/gh-pages/webtransport)
 - [alivelime/sample_webtransport](https://github.com/alivelime/sample_webtransport) - Example WebTransport Chrome M97
+- [w3c/p2p-webtransport](https://github.com/w3c/p2p-webtransport) - Interface to create and manage QUIC streams
+
+
+
 
