@@ -62,4 +62,7 @@
 - [omnistreams/omnistreams-spec](https://github.com/omnistreams/omnistreams-spec) - WIP Specification for "universal" (language- and transport-agnostic) data streams
 
 
+### Papers
+- 2021 [Evolution of Media Distribution with Multicast QUIC](https://jonessoftwaresolutions.com/P8.pdf)
+
 

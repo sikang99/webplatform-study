@@ -3,6 +3,7 @@
 
 ### Standards
 - W3C: [WebCodecs](https://w3c.github.io/webcodecs/), Editor’s Draft, 16 February 2022
+    - [WebCodecs Codec Registry](https://www.w3.org/TR/webcodecs-codec-registry/), W3C Group Draft Note, 21 March 2022
 - IETF: 
     - [RTP Payload Format For AV1 (v1.0)](https://aomediacodec.github.io/av1-rtp-spec/)
 
