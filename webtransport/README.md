@@ -38,6 +38,7 @@
 - [marten-seemann/webtransport-go](https://github.com/marten-seemann/webtransport-go) - 
 - [marten-seemann/chrome-quic-interop-runner](https://github.com/marten-seemann/chrome-quic-interop-runner)
 - [hugoArregui/webtransport](https://github.com/hugoArregui/webtransport)
+- [langhuihui/WebTransport-Go](https://github.com/langhuihui/WebTransport-Go) - WebTransport Server based on quic-go
 
 
 ### Open Source
