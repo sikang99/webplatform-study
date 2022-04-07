@@ -30,3 +30,8 @@
 - [Tencent-RTC/webcodecs-play](https://github.com/Tencent-RTC/webcodecs-play) - play WebCodecs
 - [google/lyra](https://github.com/google/lyra) - A Very Low-Bitrate Codec for Speech Compression
 - [eshaz/wasm-audio-decoders](https://github.com/eshaz/wasm-audio-decoders) - Browser and NodeJS Web Assembly audio decoder libraries that are highly optimized for size and performance
+- [ennuicastr/libavjs-webcodecs-polyfill](https://github.com/ennuicastr/libavjs-webcodecs-polyfill) - A polyfill for the WebCodecs API. No, really.
+- [Yahweasel/libav.js/](https://github.com/Yahweasel/libav.js) - This is a compilation of the libraries associated with handling audio and video in ffmpeg—libavformat, libavcodec, libavfilter, libavutil, libswresample, and libswscale—for emscripten, and thus the web
+
+
+
