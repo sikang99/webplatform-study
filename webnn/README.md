@@ -43,6 +43,7 @@
 - [Xamber/Varis](https://github.com/Xamber/Varis) - Golang Neural Network
 
 
+
 ### Slides
 - 2019 [ONNX-Go: neural networks made easy](https://speakerdeck.com/owulveryck/onnx-go-neural-networks-made-easy)
 
