@@ -12,6 +12,7 @@
 - 2021/08/03 [Use Pose detection of TensorFlow with Next.js and TypeScript: Let's become pictograms with Pose detection](https://dev.to/yuikoito/tensorflow-next-js-typescript-let-s-become-pictograms-with-pose-detection-tokyo2020-17ia)
 - 2021/05/17 [A guide to ML model serving](https://ubuntu.com/blog/guide-to-ml-model-serving)
 - 2020/05/14 [The Best AI & Machine Learning Frameworks to Learn for Web Development](https://www.freecodecamp.org/news/best-ai-machine-learning-frameworks-for-web-development/)
+- 2020/01/28 [MediaPipe on the Web](https://developers.googleblog.com/2020/01/mediapipe-on-web.html)
 
 
 ### Information
