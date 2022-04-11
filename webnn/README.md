@@ -22,6 +22,7 @@
 - Intel: [Bringing Intel Machine Learning Hardware Accelerators to Web Platform](https://www.intel.com/content/www/us/en/developer/articles/technical/machine-learning-hw-accelerators-web-platform.html)
 - [Make a smart webcam in JavaScript with a TensorFlow.js pre-trained Machine Learning model](https://codelabs.developers.google.com/codelabs/tensorflowjs-object-detection#0)
 - [MediaPipe](https://mediapipe.dev) - Live ML anywhere
+- [ONNX Rruntime](https://onnxruntime.ai/) - Optimize and Accelerate Machine Learning Inferencing and Training
 
 
 
