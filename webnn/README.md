@@ -6,6 +6,7 @@
 
 
 ### Articles
+- 2022/02/10 [Top 6 Open Source AI and ML Tools](https://techgenix.com/open-source-ai-ml-tools/)
 - 2022/02/10 [Top 5 Object Tracking Methods in 2022](https://www.linkedin.com/pulse/top-5-object-tracking-methods-2022-ritesh-kanjee)
 - 2021/12/27 [Most Popular Programming Languages & Why They’re Useful in Machine Learning](https://neptune.ai/blog/programming-languages-machine-learning)
 - 2021/11/03 [Run TFLITE models on the web](https://gilberttanner.com/blog/run-tflite-models-on-the-web)
