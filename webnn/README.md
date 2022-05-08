@@ -35,7 +35,7 @@
 - [webmachinelearning/webnn-polyfill](https://github.com/webmachinelearning/webnn-polyfill) - 🧠⚙️ Web Neural Network API polyfill based on TensorFlow.js
 - [intel/webml-polyfill](https://github.com/intel/webml-polyfill) - Deprecated, the Web Neural Network Polyfill project has been moved to https://github.com/webmachinelearning/webnn-polyfill
 - [webonnx/wonnx](https://github.com/webonnx/wonnx) - A GPU-accelerated ONNX inference run-time written 100% in Rust, ready for the web
-
+- [mil-tokyo/webdnn](https://github.com/mil-tokyo/webdnn) - The Fastest DNN Running Framework on Web Browser
 
 
 ### Open Source (Golang)
@@ -49,6 +49,7 @@
 
 
 ### Slides
+- 2021 [Progressive Transmission and Inference of Deep Learning Models](https://arxiv.org/pdf/2110.00916.pdf)
 - 2019 [ONNX-Go: neural networks made easy](https://speakerdeck.com/owulveryck/onnx-go-neural-networks-made-easy)
 
 
