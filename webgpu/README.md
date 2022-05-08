@@ -11,6 +11,7 @@
 
 
 ### Articles
+- 2022/04/29 [Native WebGPU implementation based on gfx-hal](https://rustrepo.com/repo/gfx-rs-wgpu-rust-graphics)
 - 2022/03/29 [Get started with GPU Compute on the web](https://web.dev/gpu-compute/)
 - 2022/03/17 [Learn WebGPU – A next-generation graphics API for the web](https://www.freecodecamp.org/news/learn-webgpu-a-next-generation-graphics-api-for-the-web/)
 - 2022/03/14 [Comparison between webgl and webgpu [7] - destination of rendering](https://chowdera.com/2022/03/202203140910112162.html)
@@ -40,6 +41,7 @@
 - [Next generation 3D graphics on the web side](https://www.programmersought.com/article/12931433037/)
 - [WebGPU – All of the cores, none of the canvas – surma.dev](https://www.libhunt.com/posts/638364-webgpu-all-of-the-cores-none-of-the-canvas-surma-dev)
 - [Graphics Programming weekly](https://www.jendrikillner.com/post/graphics-programming-weekly-issue-226/)
+- [wgpu-rs](https://wgpu.rs/) - Rust wrapper over wgpu-core
 
 
 ### Slides
@@ -52,7 +54,8 @@
 - [gpuweb/gpuweb](https://github.com/gpuweb/gpuweb) - Where the GPU for the Web work happens!
 - [milhidaka/webgpu-example](https://github.com/milhidaka/webgpu-example) - Example of WebGPU
 - [austinEng/webgpu-samples](https://github.com/austinEng/webgpu-samples) - WebGPU Samples
-- [https://github.com/szatkus/kagepu](https://github.com/szatkus/kagepu) - Implementation of WebGPU in TypeScript
+- [szatkus/kagepu](https://github.com/szatkus/kagepu) - Implementation of WebGPU in TypeScript
+- [gfx-rs/wgpu-rs](https://github.com/gfx-rs/wgpu-rs) - Rust bindings to wgpu native library
 
 
 
