@@ -8,11 +8,14 @@
 ### Articles
 - 2022/02/10 [Top 6 Open Source AI and ML Tools](https://techgenix.com/open-source-ai-ml-tools/)
 - 2022/02/10 [Top 5 Object Tracking Methods in 2022](https://www.linkedin.com/pulse/top-5-object-tracking-methods-2022-ritesh-kanjee)
+- 2022/00/00 -----
 - 2021/12/27 [Most Popular Programming Languages & Why They’re Useful in Machine Learning](https://neptune.ai/blog/programming-languages-machine-learning)
 - 2021/11/03 [Run TFLITE models on the web](https://gilberttanner.com/blog/run-tflite-models-on-the-web)
+- 2021/09/19 [How to build a high-performance front-end intelligent reasoning engine](https://developpaper.com/how-to-build-a-high-performance-front-end-intelligent-reasoning-engine/)
 - 2021/09/06 [Export and run models with ONNX](https://dev.to/neuml/export-and-run-models-with-onnx-fof)
 - 2021/08/03 [Use Pose detection of TensorFlow with Next.js and TypeScript: Let's become pictograms with Pose detection](https://dev.to/yuikoito/tensorflow-next-js-typescript-let-s-become-pictograms-with-pose-detection-tokyo2020-17ia)
 - 2021/05/17 [A guide to ML model serving](https://ubuntu.com/blog/guide-to-ml-model-serving)
+- 2021/00/00 -----
 - 2020/05/14 [The Best AI & Machine Learning Frameworks to Learn for Web Development](https://www.freecodecamp.org/news/best-ai-machine-learning-frameworks-for-web-development/)
 - 2020/01/28 [MediaPipe on the Web](https://developers.googleblog.com/2020/01/mediapipe-on-web.html)
 
