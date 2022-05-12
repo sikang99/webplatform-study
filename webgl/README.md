@@ -11,7 +11,7 @@
 - [SketchFab](https://sketchfab.com/)
 - [MeshLab](https://www.meshlab.net/) - open source system for processing and editing 3D triangular meshes
 - [Marmoset Viewer](https://marmoset.co/toolbag/viewer/)
-
+- [Best STL Viewers 2020](https://top3dshop.com/blog/best-stl-viewers)
 
 
 ### Open Source (GLB)
