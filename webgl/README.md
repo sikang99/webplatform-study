@@ -1,8 +1,13 @@
 ## WebGL
 
 
-### Articles
+### Termrinology
+- GLB
+- gITF
 
+
+### Articles
+- 2019/11/25 [How to render your 3D Models on the Web with model-viewer](https://medium.com/swlh/how-to-render-your-3d-models-on-the-web-with-model-viewer-1c389a513855)
 
 
 ### Information
