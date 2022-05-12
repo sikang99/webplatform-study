@@ -34,6 +34,9 @@
 - [eshaz/wasm-audio-decoders](https://github.com/eshaz/wasm-audio-decoders) - Browser and NodeJS Web Assembly audio decoder libraries that are highly optimized for size and performance
 - [ennuicastr/libavjs-webcodecs-polyfill](https://github.com/ennuicastr/libavjs-webcodecs-polyfill) - A polyfill for the WebCodecs API. No, really.
 - [Yahweasel/libav.js/](https://github.com/Yahweasel/libav.js) - This is a compilation of the libraries associated with handling audio and video in ffmpeg—libavformat, libavcodec, libavfilter, libavutil, libswresample, and libswscale—for emscripten, and thus the web
+- [caolinfeng/OoDHDR-codec](https://github.com/caolinfeng/OoDHDR-codec) - The code for OoDHDR-Codec: Out-of-Distribution Generalization for HDR Image Compression (AAAI2022)
 
 
 
+### Papers
+- 2022 [OoDHDR-Codec: Out-of-Distribution Generalization for HDR Image Compression](https://www.aaai.org/AAAI22Papers/AAAI-8610.CaoL.pdf)
