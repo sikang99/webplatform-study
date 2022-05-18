@@ -17,6 +17,7 @@
 
 ### Standards
 - [Web Platform Design Principles](https://www.w3.org/TR/design-principles/), W3C Group Note, 16 December 2021
+- [Dashboard of active W3C Specifications](https://w3c.github.io/spec-dashboard/)
 
 
 ### Articles
