@@ -18,6 +18,7 @@
 
 
 ### Articles
+- 2022/04/29 [HTTP/3 and QUIC are now available for our entire customer base at no additional charge](https://www.fastly.com/blog/http-3-and-quic-are-now-available-for-our-entire-customer-base-at-no-additional-charge)
 - 2022/02/28 [What is WebTransport and can it replace WebSockets?](https://ably.com/blog/can-webtransport-replace-websockets)
 - 2022/01/04 [New in Chrome 97](https://developer.chrome.com/blog/new-in-chrome-97/) - WebTransport
 - 2021/07/06 [Why you should prefer UDP over TCP for your WebRTC sessions](https://bloggeek.me/why-you-should-prefer-udp-over-tcp-for-your-webrtc-sessions/)
